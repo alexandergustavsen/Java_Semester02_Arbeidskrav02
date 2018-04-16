@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: linear-gradient(#000000, #202020);
+    -fx-font-family: "American Typewriter";
+}
+
+.button {
+    -fx-background-color: #AD343E;
+    -fx-text-fill: #E0E0CE;
+    -fx-background-radius: 6;
+}
